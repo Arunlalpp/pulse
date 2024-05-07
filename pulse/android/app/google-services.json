@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "988907937725",
+    "project_id": "coffeeshop-50ed0",
+    "storage_bucket": "coffeeshop-50ed0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988907937725:android:eb8566b1f4a375bcef7cd4",
+        "android_client_info": {
+          "package_name": "com.pulse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCyxm2_uX0N6JoLkkdqekwv4X5HRYBY7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
